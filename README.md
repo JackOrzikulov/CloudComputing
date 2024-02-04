@@ -5,3 +5,4 @@ Cloud Computing Course 1
 
 
 
+[gist link](https://gist.github.com/JackOrzikulov/b6c6d6323bf0c5309a5b1d3303a46fcc)
